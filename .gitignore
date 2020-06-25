@@ -1,3 +1,5 @@
-{
-    ".jshintrc"
-}
+.jshintrc
+.gitignore
+.jsbeautifyrc
+.jshintrc
+.vscode
